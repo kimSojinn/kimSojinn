@@ -23,6 +23,12 @@
   
 ## 🔥 Stats
 <div align=left>
+   <img src="https://github-readme-stats.vercel.app/api?username=kimSojinn&theme=transparent&show_icons=true" width="42%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSojinn&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kimSojinn&theme=transparent&show_icons=true" width="42%" />
 </ div>
+
+<br />
+<br />
+
+## ✍🏻 Activity
+🔗 [프론트엔드 개발자를 위한 SEO 가이드(e-book)](https://ridibooks.com/books/2773000072)
