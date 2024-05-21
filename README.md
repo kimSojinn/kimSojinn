@@ -31,4 +31,4 @@
 <br />
 
 ## ✍🏻 Activity
-🔗 [프론트엔드 개발자를 위한 SEO 가이드(e-book)](https://ridibooks.com/books/2773000072)
+🔗 [프론트엔드 개발자를 위한 SEO 가이드(e-book)](https://ridibooks.com/books/2773000071?_s=search&_q=%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+seo&_rdt_sid=search&_rdt_idx=0)
