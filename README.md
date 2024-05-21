@@ -1,36 +1,28 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient&desc=Kimsojin's&nbsp;profile&descAlignY=60&descAlign=86)
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 
-<br>
-
-<div align="left"><h1>⚒️Tech Stacks⚒️</h1></div>
-<div align="left"><strong>💡used as the main</strong></div>
-<div align=left>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
-
-<br>
+## ⚒️ Skills
   
-<div align="left"><strong>💡used at least once</strong></div>  
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">  
-<img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=SASS&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledComponents&logoColor=white"/> 
+#### Development
+![HTML5](https://img.shields.io/badge/HTML5-f5f5f5?style=flat-square&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-f5f5f5?style=flat-square&logo=Css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-f5f5f5?style=flat-square&logo=JavaScript)
+![React](https://img.shields.io/badge/React-f5f5f5?style=flat-square&logo=React)
+![TypeScript](https://img.shields.io/badge/TypeScript-f5f5f5?style=flat-square&logo=TypeScript)
+![Sass](https://img.shields.io/badge/Sass-f5f5f5?style=flat-square&logo=Sass)
+![tailwindcss](https://img.shields.io/badge/Tailwind-f5f5f5?style=flat-square&logo=tailwindcss)
+![storybook](https://img.shields.io/badge/storybook-f5f5f5?style=flat-square&logo=storybook)
   
-  <br>
  
-<div align="left"><strong>💡etc</strong></div>   
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>   
+#### Collaboration
+![github](https://img.shields.io/badge/github-f5f5f5?style=flat-square&logo=github&logoColor=181717)
+![Notion](https://img.shields.io/badge/Notion-f5f5f5?style=flat-square&logo=notion&logoColor=181717)
+![Slack](https://img.shields.io/badge/Slack-f5f5f5?style=flat-square&logo=slack&logoColor=4A154B)
+![Figma](https://img.shields.io/badge/Figma-f5f5f5?style=flat-square&logo=figma)
   
+<br />
   
-
-  
-<div align=left><h1>🔥 STATS</h1></div>
-
+## 🔥 Stats
 <div align=left>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSojinn&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api?username=kimSojinn&theme=transparent&show_icons=true" width="42%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimSojinn&exclude_repo=dkssud8150.github.io&layout=compact&theme=transparent" width="37.5%" />
 </ div>
