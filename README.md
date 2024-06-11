@@ -8,8 +8,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-f5f5f5?style=flat-square&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-f5f5f5?style=flat-square&logo=React)
 ![TypeScript](https://img.shields.io/badge/TypeScript-f5f5f5?style=flat-square&logo=TypeScript)
-![Sass](https://img.shields.io/badge/Sass-f5f5f5?style=flat-square&logo=Sass)
 ![tailwindcss](https://img.shields.io/badge/Tailwind-f5f5f5?style=flat-square&logo=tailwindcss)
+![styledcomponents](https://img.shields.io/badge/styledcomponents-f5f5f5?style=flat-square&logo=styledcomponents)
 ![storybook](https://img.shields.io/badge/storybook-f5f5f5?style=flat-square&logo=storybook)
   
  
