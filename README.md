@@ -10,7 +10,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-f5f5f5?style=flat-square&logo=TypeScript)
 ![tailwindcss](https://img.shields.io/badge/Tailwind-f5f5f5?style=flat-square&logo=tailwindcss)
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-f5f5f5?style=flat-square&logo=styledcomponents)
-![storybook](https://img.shields.io/badge/storybook-f5f5f5?style=flat-square&logo=storybook)
   
  
 #### Collaboration
